@@ -1,12 +1,5 @@
 # Sentiment-Predictor-Application_using_h2o-wave
 
-
-
-https://user-images.githubusercontent.com/67860730/205605228-cf2eaa5e-e69b-4eae-98aa-c913e3d28c42.mp4
-
-
-This is a simple [collaborative filtering](https://developers.google.com/machine-learning/recommendation/collaborative/basics) based book recommendation system made using [h2o wave](https://wave.h2o.ai/).
-
 ## Getting Started
 
 ### System Requirements
